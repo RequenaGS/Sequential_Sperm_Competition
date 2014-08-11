@@ -1,19 +1,32 @@
-(* Content-type: application/vnd.wolfram.mathematica *)
+(* Content-type: application/vnd.wolfram.cdf.text *)
 
-(*** Wolfram Notebook File ***)
-(* http://www.wolfram.com/nb *)
+(*** Wolfram CDF File ***)
+(* http://www.wolfram.com/cdf *)
 
 (* CreatedBy='Mathematica 9.0' *)
+
+(*************************************************************************)
+(*                                                                       *)
+(*  The Mathematica License under which this file was created prohibits  *)
+(*  restricting third parties in receipt of this file from republishing  *)
+(*  or redistributing it by any means, including but not limited to      *)
+(*  rights management or terms of use, without the express consent of    *)
+(*  Wolfram Research, Inc. For additional information concerning CDF     *)
+(*  licensing and redistribution see:                                    *)
+(*                                                                       *)
+(*        www.wolfram.com/cdf/adopting-cdf/licensing-options.html        *)
+(*                                                                       *)
+(*************************************************************************)
 
 (*CacheID: 234*)
 (* Internal cache information:
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
-NotebookDataPosition[       157,          7]
-NotebookDataLength[     97134,       1817]
-NotebookOptionsPosition[     95988,       1773]
-NotebookOutlinePosition[     96343,       1789]
-CellTagsIndexPosition[     96300,       1786]
+NotebookDataPosition[      1063,         20]
+NotebookDataLength[     97191,       1819]
+NotebookOptionsPosition[     96894,       1786]
+NotebookOutlinePosition[     97303,       1804]
+CellTagsIndexPosition[     97260,       1801]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -1773,6 +1786,8 @@ Cell[BoxData[{
 },
 WindowSize->{1280, 693},
 WindowMargins->{{0, Automatic}, {Automatic, 0}},
+PrintingCopies->1,
+PrintingPageRange->{1, Automatic},
 FrontEndVersion->"9.0 for Mac OS X x86 (32-bit, 64-bit Kernel) (January 25, \
 2013)",
 StyleDefinitions->"Default.nb"
@@ -1789,34 +1804,34 @@ CellTagsIndex->{}
 (*NotebookFileOutline
 Notebook[{
 Cell[CellGroupData[{
-Cell[579, 22, 127, 2, 80, "Section"],
+Cell[1485, 35, 127, 2, 80, "Section"],
 Cell[CellGroupData[{
-Cell[731, 28, 159, 2, 35, "Subsubsection"],
-Cell[893, 32, 47640, 866, 1550, "Input"]
+Cell[1637, 41, 159, 2, 35, "Subsubsection"],
+Cell[1799, 45, 47640, 866, 1550, "Input"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[48570, 903, 263, 7, 29, "Subsubsection"],
-Cell[48836, 912, 7507, 147, 505, "Input"]
+Cell[49476, 916, 263, 7, 29, "Subsubsection"],
+Cell[49742, 925, 7507, 147, 505, "Input"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[56380, 1064, 302, 10, 29, "Subsubsection"],
-Cell[56685, 1076, 7524, 148, 505, "Input"]
+Cell[57286, 1077, 302, 10, 29, "Subsubsection"],
+Cell[57591, 1089, 7524, 148, 505, "Input"]
 }, Closed]]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[64258, 1230, 177, 5, 80, "Section"],
+Cell[65164, 1243, 177, 5, 80, "Section"],
 Cell[CellGroupData[{
-Cell[64460, 1239, 183, 2, 35, "Subsubsection"],
-Cell[64646, 1243, 24809, 356, 108, "Input"]
+Cell[65366, 1252, 183, 2, 35, "Subsubsection"],
+Cell[65552, 1256, 24809, 356, 108, "Input"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[89492, 1604, 372, 6, 29, "Subsubsection"],
-Cell[89867, 1612, 1788, 47, 165, "Input"],
-Cell[91658, 1661, 2066, 51, 216, "Input"]
+Cell[90398, 1617, 372, 6, 29, "Subsubsection"],
+Cell[90773, 1625, 1788, 47, 165, "Input"],
+Cell[92564, 1674, 2066, 51, 216, "Input"]
 }, Closed]],
 Cell[CellGroupData[{
-Cell[93761, 1717, 371, 6, 29, "Subsubsection"],
-Cell[94135, 1725, 1825, 44, 199, "Input"]
+Cell[94667, 1730, 371, 6, 29, "Subsubsection"],
+Cell[95041, 1738, 1825, 44, 199, "Input"]
 }, Closed]]
 }, Open  ]]
 }
@@ -1824,3 +1839,5 @@ Cell[94135, 1725, 1825, 44, 199, "Input"]
 *)
 
 (* End of internal cache information *)
+
+(* NotebookSignature Vv0BfQGu#h00jB1rQoovP9jh *)
